@@ -1,0 +1,8 @@
+Verified+2: Jenkins
+Code-Review+2: Kiall Mac Innes <kiall@macinnes.ie>
+Workflow+1: Kiall Mac Innes <kiall@macinnes.ie>
+Submitted-by: Jenkins
+Submitted-at: Wed, 12 Nov 2014 13:58:27 +0000
+Reviewed-on: https://review.openstack.org/132987
+Project: stackforge/designate-msdnsagent
+Branch: refs/heads/master
