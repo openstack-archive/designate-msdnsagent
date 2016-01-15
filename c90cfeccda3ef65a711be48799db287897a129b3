@@ -1,0 +1,11 @@
+Code-Review+1: Clint Adams <clint@gcfm.net>
+Code-Review+1: venkatamahesh <venkatamaheshkotha@gmail.com>
+Code-Review+1: sonu <sonu.kumar@nectechnologies.in>
+Code-Review+2: Graham Hayes <graham.hayes@hpe.com>
+Workflow+1: Graham Hayes <graham.hayes@hpe.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Fri, 15 Jan 2016 15:24:50 +0000
+Reviewed-on: https://review.openstack.org/236310
+Project: openstack/designate-msdnsagent
+Branch: refs/heads/master
